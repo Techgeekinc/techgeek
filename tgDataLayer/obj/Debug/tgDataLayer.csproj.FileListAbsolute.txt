@@ -1,0 +1,4 @@
+D:\ProjectsWork\TechGeekEid\tgDataLayer\bin\Debug\tgDataLayer.dll
+D:\ProjectsWork\TechGeekEid\tgDataLayer\bin\Debug\tgDataLayer.pdb
+D:\ProjectsWork\TechGeekEid\tgDataLayer\obj\Debug\tgDataLayer.dll
+D:\ProjectsWork\TechGeekEid\tgDataLayer\obj\Debug\tgDataLayer.pdb

@@ -1,0 +1,7 @@
+D:\ProjectsWork\TechGeekEid\tgBusinessLayer\bin\Debug\tgBusinessLayer.dll
+D:\ProjectsWork\TechGeekEid\tgBusinessLayer\bin\Debug\tgBusinessLayer.pdb
+D:\ProjectsWork\TechGeekEid\tgBusinessLayer\bin\Debug\tgDataLayer.dll
+D:\ProjectsWork\TechGeekEid\tgBusinessLayer\bin\Debug\tgDataLayer.pdb
+D:\ProjectsWork\TechGeekEid\tgBusinessLayer\obj\Debug\tgBusinessLayer.csprojResolveAssemblyReference.cache
+D:\ProjectsWork\TechGeekEid\tgBusinessLayer\obj\Debug\tgBusinessLayer.dll
+D:\ProjectsWork\TechGeekEid\tgBusinessLayer\obj\Debug\tgBusinessLayer.pdb

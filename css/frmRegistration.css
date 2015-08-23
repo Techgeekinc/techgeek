@@ -1,0 +1,20 @@
+﻿/* Developed by TechGeek*/
+
+.stat-count {
+	font-size: 51px;
+	font-weight: normal;
+	letter-spacing: -0.02em;
+	line-height: 1.2;
+	margin-bottom: 0px;
+	overflow:hidden;
+	font-family:"Georgia", Courier, monospace;
+	padding: 0;
+	position: relative;
+    text-align:center;
+}
+.stat-detail {
+	color:#134363;
+	padding-top:10px;
+	font: italic 1.3rem/1.75 "Georgia", Courier, monospace;
+    text-align:center;
+}

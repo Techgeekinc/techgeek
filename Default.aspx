@@ -11,7 +11,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>TechGeek IT Solutions</title>
     <meta name="description" content="TechGeek Offering comprehensive IT solutions Vadodara to the global market place.Techgeek through its wide array of online services,print media services and facilitate with the mobile application software.our company is an ideal form of businesses and companies across the globe that help the buyer's and sellers to conduct their business smoothly and effectively.">
-    <meta name="keywords" content="Website,TechGeek IT solutions Vadodara,Techgeek Vadodara, Techgeek Husen,Mobile Friendly website,customized website,Mobile Application,Play Store Application,Search Engine Optimizaiton(SEO), Social Media Optimization(SMO),Invoice Software,Billing Software,Domain Booking,Email Domain Booking,School DataBase Management System,ERP,Dynamic websites,Static websites,Google Mapping,Websites under 10000 Rs,Inventory System for Hotels,Websites Developer in Vadodara,Websites Developer in Dahod,TechGeek IT Software Solution,Mohammad Rajpurwala,Husain Jhabuawala,Husen Jambugohdawala,Burhan Vakharia">
+    <meta name="keywords" content="Website,TechGeek IT solutions Vadodara,TechGeek IT solutions,Techgeek Vadodara, Techgeek Husen,Mobile Friendly website,customized website,Mobile Application,Play Store Application,Search Engine Optimizaiton(SEO), Social Media Optimization(SMO),Invoice Software,Billing Software,Domain Booking,Email Domain Booking,School DataBase Management System,ERP,Dynamic websites,Static websites,Google Mapping,Websites under 10000 Rs, 6999 Rs, Inventory System for Hotels,Websites Developer in Vadodara,Websites Developer in Dahod,TechGeek IT Software Solution,Mohammad Rajpurwala,Husain Jhabuawala,Husen Jambugohdawala,Burhan Vakharia">
+    <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="3 days">
     <meta name="author" content="TechGeek.org.in">
 
     <!-- Favicons
@@ -514,7 +516,7 @@
     <nav id="footer">
         <div class="container">
             <div class="pull-left fnav">
-                <p>ALL RIGHTS RESERVED. COPYRIGHT ï¿½ 2015. Designed by <a href="http://techgeek.org.in">TechGeek IT Solutions</a></p>
+                <p>ALL RIGHTS RESERVED. COPYRIGHT © 2015. Designed by <a href="http://techgeek.org.in">TechGeek IT Solutions</a></p>
             </div>
             <div class="pull-right fnav">
                 <ul class="footer-social">

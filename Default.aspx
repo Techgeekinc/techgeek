@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
 
 <!DOCTYPE html>
 
@@ -514,7 +514,7 @@
     <nav id="footer">
         <div class="container">
             <div class="pull-left fnav">
-                <p>ALL RIGHTS RESERVED. COPYRIGHT © 2015. Designed by <a href="http://techgeek.org.in">TechGeek IT Solutions</a></p>
+                <p>ALL RIGHTS RESERVED. COPYRIGHT � 2015. Designed by <a href="http://techgeek.org.in">TechGeek IT Solutions</a></p>
             </div>
             <div class="pull-right fnav">
                 <ul class="footer-social">
